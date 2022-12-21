@@ -46,3 +46,6 @@ Data Split 비율은 Train:Valid:Test=8:1:1
 
 ![image](https://user-images.githubusercontent.com/104436260/208834542-13cfd717-1e13-46ca-b943-e043f7eb5f76.png)
 
+![image](https://user-images.githubusercontent.com/104436260/208834688-bd8d3b69-bca5-4fdd-a80a-2d1c43fd4dbf.png)
+
+![image](https://user-images.githubusercontent.com/104436260/208834743-f063b6b5-5b40-4b85-a1f9-cee5110abfdb.png)
