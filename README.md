@@ -14,4 +14,4 @@ yolov5s 모델 사용해서 학습 진행
 
 4.Model Test
 
-5.
+5.Result
