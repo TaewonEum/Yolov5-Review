@@ -43,3 +43,6 @@ D_Load 함수는 소스 코드에서 확인.
 Data Split 비율은 Train:Valid:Test=8:1:1
 
 이후에, 원천데이터를 Train, Valid, Test 폴더를 각각 만들어 이미지와 라벨링 데이터를 shutil.copy함수를 통해 복사 붙여넣기 해줌
+
+![image](https://user-images.githubusercontent.com/104436260/208834542-13cfd717-1e13-46ca-b943-e043f7eb5f76.png)
+
