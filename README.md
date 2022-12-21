@@ -22,3 +22,4 @@ yolov5s 모델 사용해서 학습 진행
 
 # Data Preprocessing
 
+![image](https://user-images.githubusercontent.com/104436260/208833062-4f258a3b-97c6-45f2-a0ae-9985c02b547f.png)
