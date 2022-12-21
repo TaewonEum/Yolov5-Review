@@ -72,3 +72,7 @@ Validation과 Test 데이터 셋의 구조도 Train과 같은 형태로 바꿔�
 
 
 라벨값, X_center, Y_center, Width, Height 순으로 라벨데이터 변환
+
+# Train Valid text file 작성하기
+
+
