@@ -47,3 +47,7 @@ Data Split 비율은 Train:Valid:Test=8:1:1
 ![image](https://user-images.githubusercontent.com/104436260/208834542-13cfd717-1e13-46ca-b943-e043f7eb5f76.png)
 
 Valid와 Test 데이터 셋도 똑같이 새로운 폴더에 복사 붙여넣기 해줌
+
+![image](https://user-images.githubusercontent.com/104436260/208835889-187ff12e-4e79-4ba0-aeb3-d49c7c14a82c.png)
+
+Train data의 개수는 총 16800개(음성, 양성 각각 8400장)
