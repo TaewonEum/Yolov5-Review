@@ -4,6 +4,14 @@
 
 yolov5s 모델 사용해서 학습 진행
 
+사용한 데이터
+
+- 이미지 데이터
+
+- 이미지 데이터의 메타정보가 포함된 라벨링 데이터
+
+- 이미지와 라벨링 데이터는 한쌍으로 이루어져 있음
+
 # Index
 
 1.Import Library
@@ -33,3 +41,5 @@ D_Load 함수는 소스 코드에서 확인.
 ![image](https://user-images.githubusercontent.com/104436260/208833841-84ea1657-02b5-45d2-b096-6304a5f9bd50.png)
 
 Data Split 비율은 Train:Valid:Test=8:1:1
+
+이후에, 원천데이터를 Train, Valid, Test 폴더를 각각 만들어 이미지와 라벨링 데이터를 shutil.copy함수를 통해 복사 붙여넣기 해줌
