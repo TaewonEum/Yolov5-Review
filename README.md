@@ -29,3 +29,7 @@ yolov5s 모델 사용해서 학습 진행
 각 Class별 객체가 최소 몇개 있는지 확인해주는 함수 
 
 D_Load 함수는 소스 코드에서 확인.
+
+![image](https://user-images.githubusercontent.com/104436260/208833841-84ea1657-02b5-45d2-b096-6304a5f9bd50.png)
+
+Data Split 비율은 Train:Valid:Test=8:1:1
