@@ -61,3 +61,8 @@ Train data의 개수는 총 16800개(음성, 양성 각각 8400장)
 바뀐 Train 이미지 data folder 구조: train->images
 
 바뀐 Train 라벨링 data folder 구조: train->labels
+
+Validation과 Test 데이터 셋의 구조도 Train과 같은 형태로 바꿔줌
+
+![image](https://user-images.githubusercontent.com/104436260/208844006-176a66fd-df50-4eb8-9151-e4a85e732284.png)
+
