@@ -82,3 +82,14 @@ train data와 valid data의 경로가 적혀있는 txt파일 생성
 # data.yaml 파일에 train, validation data 경로 입력
 
 ![image](https://user-images.githubusercontent.com/104436260/208854019-c6dcf60f-43a8-4c9f-b79a-92e2b2a964b0.png)
+
+# Model Training
+
+![image](https://user-images.githubusercontent.com/104436260/208854833-fa5bb1f9-354a-4850-b11c-2b0d162c3060.png)
+
+
+위의 주소로 git clone 해주고
+
+requirements.txt에 있는 패키지들을 모두 깔아줌
+
+캡쳐본과 같이 파라미터들 설정하고 모델 트레이닝 진행
