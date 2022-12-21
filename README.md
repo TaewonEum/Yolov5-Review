@@ -66,3 +66,9 @@ Validation과 Test 데이터 셋의 구조도 Train과 같은 형태로 바꿔�
 
 ![image](https://user-images.githubusercontent.com/104436260/208844006-176a66fd-df50-4eb8-9151-e4a85e732284.png)
 
+# Yolov5 모델에 맞게 라벨링 데이터 수정
+
+![image](https://user-images.githubusercontent.com/104436260/208846703-2fc1362a-356a-4517-af65-bd0414e5cec5.png)
+
+
+라벨값, X_center, Y_center, Width, Height 순으로 라벨데이터 변환
