@@ -85,8 +85,7 @@ train data와 valid data의 경로가 적혀있는 txt파일 생성
 
 # Model Training
 
-![image](https://user-images.githubusercontent.com/104436260/208854833-fa5bb1f9-354a-4850-b11c-2b0d162c3060.png)
-
+![image](https://user-images.githubusercontent.com/104436260/208855094-05e50988-7ac7-4af0-a106-3b696c323474.png)
 
 위의 주소로 git clone 해주고
 
