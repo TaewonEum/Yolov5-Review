@@ -51,3 +51,13 @@ Valid와 Test 데이터 셋도 똑같이 새로운 폴더에 복사 붙여넣기
 ![image](https://user-images.githubusercontent.com/104436260/208835889-187ff12e-4e79-4ba0-aeb3-d49c7c14a82c.png)
 
 Train data의 개수는 총 16800개(음성, 양성 각각 8400장)
+
+# Train data folder 구조 변경하기
+
+원래 Train 이미지 data folder구조: train->원천데이터->실제데이터->Bounding Box->생애이슈(음성) or 생애이슈(양성)
+
+원래 Train 라벨링 data folder구조: train->라벨링데이터->실제데이터->Bounding Box->생애이슈(음성) or 생애이슈(양성)
+
+바뀐 Train 이미지 data folder 구조: train->images
+
+바뀐 Train 라벨링 data folder 구조: train->labels
