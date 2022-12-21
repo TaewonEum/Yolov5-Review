@@ -19,3 +19,6 @@ yolov5s 모델 사용해서 학습 진행
 # Import Library
 
 ![image](https://user-images.githubusercontent.com/104436260/208832899-402b4986-e5e7-44ee-99d8-592dc2cc28ea.png)
+
+# Data Preprocessing
+
