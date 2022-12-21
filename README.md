@@ -75,4 +75,5 @@ Validation과 Test 데이터 셋의 구조도 Train과 같은 형태로 바꿔�
 
 # Train Valid text file 작성하기
 
+![image](https://user-images.githubusercontent.com/104436260/208852409-e537df93-6675-4dbd-8030-548e0207375d.png)
 
