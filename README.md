@@ -27,3 +27,5 @@ yolov5s 모델 사용해서 학습 진행
 ![image](https://user-images.githubusercontent.com/104436260/208833062-4f258a3b-97c6-45f2-a0ae-9985c02b547f.png)
 
 각 Class별 객체가 최소 몇개 있는지 확인해주는 함수 
+
+D_Load 함수는 소스 코드에서 확인.
