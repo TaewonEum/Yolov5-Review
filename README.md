@@ -95,4 +95,8 @@ requirements.txt에 있는 패키지들을 모두 깔아줌
 
 # 학습결과 확인
 
+![image](https://user-images.githubusercontent.com/104436260/209028017-bdd5466f-d501-4153-88b0-a05b5d5c797d.png)
+
+첫 번째 학습 배치에 포함된 정답 이미지
+
 
