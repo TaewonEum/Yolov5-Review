@@ -92,3 +92,7 @@ train data와 valid data의 경로가 적혀있는 txt파일 생성
 requirements.txt에 있는 패키지들을 모두 깔아줌
 
 캡쳐본과 같이 파라미터들 설정하고 모델 트레이닝 진행
+
+# 학습결과 확인
+
+
