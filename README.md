@@ -33,11 +33,6 @@ Gradient combination이 만들어지는 동안 **연산량을 줄이는 것이 �
 
 ![image](https://github.com/eumtaewon/Yolov5-Review/assets/104436260/bb4eda4b-6b6a-42ed-b6dd-e7cf5a7654da)
    
-
-
-
-
-
 ## Yolov5 Head
 
 Backbone에서 추출된 Feature map을 바탕으로 물체의 위치(바운딩 박스)를 찾는 부분
@@ -46,8 +41,17 @@ Backbone에서 추출된 Feature map을 바탕으로 물체의 위치(바운딩 
 
 각 픽셀에서 3개의 앵커 박스를 사용하여 예측함
 
+## Head 구성 요소
 
+1. Convolution layer
+여러개의 Convolution layer로 구성되어 있어 다양한 크기의 필터를 사용함
 
+2.Detection Layer 
+각 Convolution layer뒤에 있는 Layer임. 앵커 박스의 개수와 클래스 수에 따라 정의됨
+각 앵커 박스마다 박스의 위치와 크기 그리고 클래스에 대한 확률을 예측합니다.
+
+다양한 크기의 Convolution layer를 통해 입력 이미지에서 다양한 특징을 추출한 후 
+Detection layer를 통해 이미지에서 객체가 있을만한곳에 예측 바운딩박스를 생성 및 클래스에 대한 예측 확률 도출
 
 
 
