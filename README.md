@@ -43,8 +43,7 @@ Backbone에서 추출된 Feature map을 바탕으로 물체의 위치(바운딩 
 
 ## Head 구성 요소
 
-1. Convolution layer
-여러개의 Convolution layer로 구성되어 있어 다양한 크기의 필터를 사용함
+1.Convolution layer: 여러개의 Convolution layer로 구성되어 있어 다양한 크기의 필터를 사용함
 
 2.Detection Layer 
 각 Convolution layer뒤에 있는 Layer임. 앵커 박스의 개수와 클래스 수에 따라 정의됨
