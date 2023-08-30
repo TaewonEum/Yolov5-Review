@@ -1,5 +1,14 @@
 # Yolov5 Review
 
+One Stage 모델로 클래스 예측과 바운딩 박스 예측을 한번에 수행함
+
+## Yolov5 Backbone
+
+Yolov5는 **CSPNe**t을 사용함
+
+CSPNet은 Neural Network가 점점 깊어지면서, 네트워크 연산량이 많아지며 모델이 무거워지는 것을 방지하기 위해
+
+Gradient combination이 만들어지는 동안 **연산량을 줄이는 것이 목적**이다.
 
 
 
@@ -10,9 +19,7 @@
 
 
 
-# YOLOv5 Model을 활용하여 실제 객체 탐지 pilot 분석 진행 
-
-# bee_detection_project
+#  YOLOv5 Model을 활용하여 실제 객체 탐지 pilot 분석 진행 
 
 실제 수집한 데이터 샘플로 YOLO5 구현
 
