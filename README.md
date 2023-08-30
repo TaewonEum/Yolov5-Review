@@ -2,13 +2,17 @@
 
 One Stage 모델로 클래스 예측과 바운딩 박스 예측을 한번에 수행함
 
+**크게 Backbone, Head 부분으로 구성됨**
+
 ## Yolov5 Backbone
+
+**Backbone이란** 이미지로 부터 Feature map 즉 **특징을 추출하는 부분**
 
 Yolov5는 **CSPNe**t을 사용함
 
 CSPNet은 Neural Network가 점점 깊어지면서, 네트워크 연산량이 많아지며 모델이 무거워지는 것을 방지하기 위해
 
-Gradient combination이 만들어지는 동안 **연산량을 줄이는 것이 목적**임
+Gradient combination이 만들어지는 동안 **연산량을 줄이는 것이 목적**
 
 ### CSPNet
 
